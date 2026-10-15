@@ -26,7 +26,7 @@ Analyzed salesperson sales performance against quota using SQL Server and Excel.
 
 ## Dashboard
 
-![AdventureWorks Sales Performance Dashboard](images/dashboard.png)
+![AdventureWorks Sales Performance Dashboard](dashboard/Dashboard.png)
 
 The dashboard summarizes quarterly sales versus quota, salesperson shortfalls, and product-category sales mix.
 
