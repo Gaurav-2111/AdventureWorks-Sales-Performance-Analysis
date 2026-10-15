@@ -1,0 +1,694 @@
+﻿SalesPersonID,SalespersonName,AssignedTerritory,SalesYear,SalesQuarter,ProductCategoryID,CategoryName,OrdersContainingCategory,UnitsSold,CategorySales,PerformanceBucket
+283,David Campbell,Northwest,2011,2,4,Accessories,3,11,222.051500,Partial sales history
+283,David Campbell,Northwest,2011,2,1,Bikes,4,43,67526.229200,Partial sales history
+283,David Campbell,Northwest,2011,2,3,Clothing,3,24,296.215300,Partial sales history
+283,David Campbell,Northwest,2011,2,2,Components,2,3,1428.500300,Partial sales history
+278,Garrett Vargas,Canada,2011,2,4,Accessories,1,3,60.559500,Partial sales history
+278,Garrett Vargas,Canada,2011,2,1,Bikes,2,14,8510.597900,Partial sales history
+278,Garrett Vargas,Canada,2011,2,3,Clothing,2,10,170.134500,Partial sales history
+278,Garrett Vargas,Canada,2011,2,2,Components,1,2,367.876400,Partial sales history
+277,Jillian Carson,Central,2011,2,4,Accessories,1,6,121.119000,Partial sales history
+277,Jillian Carson,Central,2011,2,1,Bikes,4,65,43198.299400,Partial sales history
+277,Jillian Carson,Central,2011,2,3,Clothing,2,8,113.994200,Partial sales history
+277,Jillian Carson,Central,2011,2,2,Components,2,16,3262.143800,Partial sales history
+282,José Saraiva,Canada,2011,2,4,Accessories,2,12,242.238000,Partial sales history
+282,José Saraiva,Canada,2011,2,1,Bikes,5,107,90730.394200,Partial sales history
+282,José Saraiva,Canada,2011,2,3,Clothing,3,31,565.978800,Partial sales history
+282,José Saraiva,Canada,2011,2,2,Components,3,47,14713.116700,Partial sales history
+276,Linda Mitchell,Southwest,2011,2,1,Bikes,2,7,5119.050500,Partial sales history
+276,Linda Mitchell,Southwest,2011,2,2,Components,1,1,356.898000,Partial sales history
+275,Michael Blythe,Northeast,2011,2,4,Accessories,2,11,222.051500,Partial sales history
+275,Michael Blythe,Northeast,2011,2,1,Bikes,8,55,61943.293400,Partial sales history
+275,Michael Blythe,Northeast,2011,2,3,Clothing,6,25,326.082700,Partial sales history
+275,Michael Blythe,Northeast,2011,2,2,Components,2,7,1271.495200,Partial sales history
+280,Pamela Ansman-Wolfe,Northwest,2011,2,1,Bikes,1,12,24374.928000,Partial sales history
+280,Pamela Ansman-Wolfe,Northwest,2011,2,3,Clothing,1,2,57.680800,Partial sales history
+281,Shu Ito,Southwest,2011,2,4,Accessories,3,25,504.662500,Partial sales history
+281,Shu Ito,Southwest,2011,2,1,Bikes,3,77,52868.400700,Partial sales history
+281,Shu Ito,Southwest,2011,2,3,Clothing,3,35,725.567200,Partial sales history
+281,Shu Ito,Southwest,2011,2,2,Components,3,26,5609.690400,Partial sales history
+279,Tsvi Reiter,Southeast,2011,2,4,Accessories,3,16,322.984000,Partial sales history
+279,Tsvi Reiter,Southeast,2011,2,1,Bikes,8,75,98960.605400,Partial sales history
+279,Tsvi Reiter,Southeast,2011,2,3,Clothing,4,32,619.500100,Partial sales history
+279,Tsvi Reiter,Southeast,2011,2,2,Components,3,12,4516.239600,Partial sales history
+283,David Campbell,Northwest,2011,3,4,Accessories,3,18,363.357000,Below quota
+283,David Campbell,Northwest,2011,3,1,Bikes,9,131,225021.653300,Below quota
+283,David Campbell,Northwest,2011,3,3,Clothing,6,59,663.904750,Below quota
+283,David Campbell,Northwest,2011,3,2,Components,4,25,14674.141500,Below quota
+278,Garrett Vargas,Canada,2011,3,4,Accessories,2,26,524.849000,Below quota
+278,Garrett Vargas,Canada,2011,3,1,Bikes,12,216,217712.406280,Below quota
+278,Garrett Vargas,Canada,2011,3,3,Clothing,9,49,925.446820,Below quota
+278,Garrett Vargas,Canada,2011,3,2,Components,6,48,14532.964300,Below quota
+277,Jillian Carson,Central,2011,3,4,Accessories,12,78,1574.547000,Below quota
+277,Jillian Carson,Central,2011,3,1,Bikes,26,428,461174.316024,Below quota
+277,Jillian Carson,Central,2011,3,3,Clothing,22,225,3676.742050,Below quota
+277,Jillian Carson,Central,2011,3,2,Components,15,111,35325.174500,Below quota
+282,José Saraiva,Canada,2011,3,4,Accessories,11,87,1756.225500,Below quota
+282,José Saraiva,Canada,2011,3,1,Bikes,26,416,466795.555320,Below quota
+282,José Saraiva,Canada,2011,3,3,Clothing,14,149,2289.347364,Below quota
+282,José Saraiva,Canada,2011,3,2,Components,13,138,50952.411400,Below quota
+276,Linda Mitchell,Southwest,2011,3,4,Accessories,8,52,1049.698000,Below quota
+276,Linda Mitchell,Southwest,2011,3,1,Bikes,17,275,416594.345400,Below quota
+276,Linda Mitchell,Southwest,2011,3,3,Clothing,12,102,1778.025300,Below quota
+276,Linda Mitchell,Southwest,2011,3,2,Components,10,81,40117.288000,Below quota
+275,Michael Blythe,Northeast,2011,3,4,Accessories,5,29,585.408500,Below quota
+275,Michael Blythe,Northeast,2011,3,1,Bikes,26,375,323941.036000,Below quota
+275,Michael Blythe,Northeast,2011,3,3,Clothing,19,93,1462.203200,Below quota
+275,Michael Blythe,Northeast,2011,3,2,Components,14,89,22818.657600,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2011,3,4,Accessories,5,27,545.035500,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2011,3,1,Bikes,9,138,203167.511100,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2011,3,3,Clothing,8,72,886.070500,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2011,3,2,Components,6,41,20037.003800,Below quota
+281,Shu Ito,Southwest,2011,3,4,Accessories,9,63,1271.749500,Below quota
+281,Shu Ito,Southwest,2011,3,1,Bikes,15,280,375576.215376,Below quota
+281,Shu Ito,Southwest,2011,3,3,Clothing,11,99,1683.288100,Below quota
+281,Shu Ito,Southwest,2011,3,2,Components,9,79,37631.919600,Below quota
+274,Stephen Jiang,Unassigned,2011,3,4,Accessories,1,3,60.559500,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2011,3,1,Bikes,2,11,22379.934000,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2011,3,3,Clothing,1,5,144.202000,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2011,3,4,Accessories,11,52,1049.698000,Below quota
+279,Tsvi Reiter,Southeast,2011,3,1,Bikes,25,388,533281.483800,Below quota
+279,Tsvi Reiter,Southeast,2011,3,3,Clothing,14,162,2251.424700,Below quota
+279,Tsvi Reiter,Southeast,2011,3,2,Components,16,87,42750.586600,Below quota
+283,David Campbell,Northwest,2011,4,4,Accessories,2,14,282.611000,Met or exceeded quota
+283,David Campbell,Northwest,2011,4,1,Bikes,13,163,272551.429400,Met or exceeded quota
+283,David Campbell,Northwest,2011,4,3,Clothing,7,67,686.443200,Met or exceeded quota
+283,David Campbell,Northwest,2011,4,2,Components,5,38,16271.407900,Met or exceeded quota
+278,Garrett Vargas,Canada,2011,4,4,Accessories,3,34,686.341000,Below quota
+278,Garrett Vargas,Canada,2011,4,1,Bikes,14,243,241679.864300,Below quota
+278,Garrett Vargas,Canada,2011,4,3,Clothing,9,61,748.814300,Below quota
+278,Garrett Vargas,Canada,2011,4,2,Components,7,40,14171.965900,Below quota
+277,Jillian Carson,Central,2011,4,4,Accessories,13,109,2200.328500,Below quota
+277,Jillian Carson,Central,2011,4,1,Bikes,26,637,704088.396500,Below quota
+277,Jillian Carson,Central,2011,4,3,Clothing,19,201,3910.889772,Below quota
+277,Jillian Carson,Central,2011,4,2,Components,19,169,52981.341100,Below quota
+282,José Saraiva,Canada,2011,4,4,Accessories,10,103,2079.209500,Below quota
+282,José Saraiva,Canada,2011,4,1,Bikes,23,510,497281.436840,Below quota
+282,José Saraiva,Canada,2011,4,3,Clothing,17,186,3544.532400,Below quota
+282,José Saraiva,Canada,2011,4,2,Components,15,110,44057.029300,Below quota
+276,Linda Mitchell,Southwest,2011,4,4,Accessories,10,75,1513.987500,Met or exceeded quota
+276,Linda Mitchell,Southwest,2011,4,1,Bikes,25,450,623808.350500,Met or exceeded quota
+276,Linda Mitchell,Southwest,2011,4,3,Clothing,15,125,2131.799800,Met or exceeded quota
+276,Linda Mitchell,Southwest,2011,4,2,Components,14,121,57245.882300,Met or exceeded quota
+275,Michael Blythe,Northeast,2011,4,4,Accessories,4,33,666.154500,Below quota
+275,Michael Blythe,Northeast,2011,4,1,Bikes,28,481,431156.200300,Below quota
+275,Michael Blythe,Northeast,2011,4,3,Clothing,16,94,1430.864240,Below quota
+275,Michael Blythe,Northeast,2011,4,2,Components,14,102,30000.384700,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2011,4,4,Accessories,5,38,767.087000,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2011,4,1,Bikes,11,273,381320.352300,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2011,4,3,Clothing,9,67,854.489500,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2011,4,2,Components,7,39,16475.427700,Met or exceeded quota
+281,Shu Ito,Southwest,2011,4,4,Accessories,6,66,1320.614108,Met or exceeded quota
+281,Shu Ito,Southwest,2011,4,1,Bikes,14,332,450970.683292,Met or exceeded quota
+281,Shu Ito,Southwest,2011,4,3,Clothing,12,120,1838.225150,Met or exceeded quota
+281,Shu Ito,Southwest,2011,4,2,Components,9,91,37596.274000,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2011,4,1,Bikes,2,11,6341.551000,Below quota
+279,Tsvi Reiter,Southeast,2011,4,4,Accessories,6,41,827.646500,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2011,4,1,Bikes,25,549,774452.190868,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2011,4,3,Clothing,18,143,2249.608600,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2011,4,2,Components,16,124,60007.219900,Met or exceeded quota
+283,David Campbell,Northwest,2012,1,4,Accessories,3,22,444.103000,Met or exceeded quota
+283,David Campbell,Northwest,2012,1,1,Bikes,13,246,376004.329100,Met or exceeded quota
+283,David Campbell,Northwest,2012,1,3,Clothing,8,69,976.049400,Met or exceeded quota
+283,David Campbell,Northwest,2012,1,2,Components,7,37,20109.230600,Met or exceeded quota
+278,Garrett Vargas,Canada,2012,1,4,Accessories,3,45,894.571264,Met or exceeded quota
+278,Garrett Vargas,Canada,2012,1,1,Bikes,19,379,377547.987700,Met or exceeded quota
+278,Garrett Vargas,Canada,2012,1,3,Clothing,10,116,2016.605328,Met or exceeded quota
+278,Garrett Vargas,Canada,2012,1,2,Components,10,79,30058.454200,Met or exceeded quota
+277,Jillian Carson,Central,2012,1,4,Accessories,15,103,2079.209500,Met or exceeded quota
+277,Jillian Carson,Central,2012,1,1,Bikes,37,892,1100220.659000,Met or exceeded quota
+277,Jillian Carson,Central,2012,1,3,Clothing,24,278,5074.429700,Met or exceeded quota
+277,Jillian Carson,Central,2012,1,2,Components,17,129,54423.914800,Met or exceeded quota
+282,José Saraiva,Canada,2012,1,4,Accessories,10,78,1574.547000,Met or exceeded quota
+282,José Saraiva,Canada,2012,1,1,Bikes,38,719,734488.483380,Met or exceeded quota
+282,José Saraiva,Canada,2012,1,3,Clothing,22,183,3142.003892,Met or exceeded quota
+282,José Saraiva,Canada,2012,1,2,Components,19,156,56655.598700,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,1,4,Accessories,13,91,1836.971500,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,1,1,Bikes,35,677,938838.314060,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,1,3,Clothing,23,218,3356.533950,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,1,2,Components,19,102,46982.008100,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,1,4,Accessories,7,38,767.087000,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,1,1,Bikes,36,606,559493.860100,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,1,3,Clothing,17,109,1904.838400,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,1,2,Components,19,127,37863.696700,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,1,4,Accessories,7,38,767.087000,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,1,1,Bikes,18,376,490730.287600,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,1,3,Clothing,15,121,1748.119900,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,1,2,Components,9,45,25753.613800,Met or exceeded quota
+281,Shu Ito,Southwest,2012,1,4,Accessories,9,70,1413.055000,Met or exceeded quota
+281,Shu Ito,Southwest,2012,1,1,Bikes,14,377,476661.599200,Met or exceeded quota
+281,Shu Ito,Southwest,2012,1,3,Clothing,14,109,1923.870800,Met or exceeded quota
+281,Shu Ito,Southwest,2012,1,2,Components,8,78,31480.820700,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,1,1,Bikes,4,89,109965.588200,Below quota
+274,Stephen Jiang,Unassigned,2012,1,3,Clothing,4,16,88.632500,Below quota
+274,Stephen Jiang,Unassigned,2012,1,2,Components,1,4,2866.707800,Below quota
+279,Tsvi Reiter,Southeast,2012,1,4,Accessories,14,96,1937.904000,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2012,1,1,Bikes,37,721,922937.406192,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2012,1,3,Clothing,22,190,2956.891800,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2012,1,2,Components,24,170,80100.927100,Met or exceeded quota
+287,Amy Alberts,Unassigned,2012,2,4,Accessories,1,27,497.531500,Below quota
+287,Amy Alberts,Unassigned,2012,2,1,Bikes,2,49,52317.263900,Below quota
+287,Amy Alberts,Unassigned,2012,2,3,Clothing,2,139,3973.639288,Below quota
+287,Amy Alberts,Unassigned,2012,2,2,Components,3,73,16944.033800,Below quota
+283,David Campbell,Northwest,2012,2,4,Accessories,5,83,1373.602062,Below quota
+283,David Campbell,Northwest,2012,2,1,Bikes,12,343,279060.709581,Below quota
+283,David Campbell,Northwest,2012,2,3,Clothing,12,310,8037.421383,Below quota
+283,David Campbell,Northwest,2012,2,2,Components,11,331,75384.415998,Below quota
+278,Garrett Vargas,Canada,2012,2,4,Accessories,8,176,3055.043254,Below quota
+278,Garrett Vargas,Canada,2012,2,1,Bikes,14,391,266464.368542,Below quota
+278,Garrett Vargas,Canada,2012,2,3,Clothing,10,483,15590.176676,Below quota
+278,Garrett Vargas,Canada,2012,2,2,Components,12,278,67477.471300,Below quota
+289,Jae Pak,United Kingdom,2012,2,4,Accessories,12,262,4146.619976,Below quota
+289,Jae Pak,United Kingdom,2012,2,1,Bikes,22,873,724605.755967,Below quota
+289,Jae Pak,United Kingdom,2012,2,3,Clothing,21,855,25249.722532,Below quota
+289,Jae Pak,United Kingdom,2012,2,2,Components,27,851,209343.009448,Below quota
+277,Jillian Carson,Central,2012,2,4,Accessories,19,196,3428.559636,Below quota
+277,Jillian Carson,Central,2012,2,1,Bikes,30,1075,848200.757492,Below quota
+277,Jillian Carson,Central,2012,2,3,Clothing,25,504,13872.891787,Below quota
+277,Jillian Carson,Central,2012,2,2,Components,28,800,204011.664100,Below quota
+282,José Saraiva,Canada,2012,2,4,Accessories,8,107,1932.350580,Below quota
+282,José Saraiva,Canada,2012,2,1,Bikes,12,314,233472.345108,Below quota
+282,José Saraiva,Canada,2012,2,3,Clothing,11,280,8017.547852,Below quota
+282,José Saraiva,Canada,2012,2,2,Components,15,200,63956.635100,Below quota
+276,Linda Mitchell,Southwest,2012,2,4,Accessories,16,270,4715.916930,Below quota
+276,Linda Mitchell,Southwest,2012,2,1,Bikes,29,898,688131.518526,Below quota
+276,Linda Mitchell,Southwest,2012,2,3,Clothing,22,845,25260.141232,Below quota
+276,Linda Mitchell,Southwest,2012,2,2,Components,25,625,160523.611000,Below quota
+275,Michael Blythe,Northeast,2012,2,4,Accessories,13,215,3556.710090,Below quota
+275,Michael Blythe,Northeast,2012,2,1,Bikes,33,1010,749630.870201,Below quota
+275,Michael Blythe,Northeast,2012,2,3,Clothing,25,795,22887.146446,Below quota
+275,Michael Blythe,Northeast,2012,2,2,Components,33,813,211428.034400,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,2,4,Accessories,7,131,2192.619908,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,2,1,Bikes,8,350,298494.968952,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,2,3,Clothing,10,412,11961.906143,Met or exceeded quota
+280,Pamela Ansman-Wolfe,Northwest,2012,2,2,Components,12,348,77374.087976,Met or exceeded quota
+290,Ranjit Varkey Chudukatil,France,2012,2,4,Accessories,7,160,2613.906658,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,2,1,Bikes,9,338,263761.323001,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,2,3,Clothing,9,480,14861.118097,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,2,2,Components,11,318,79009.471354,Below quota
+281,Shu Ito,Southwest,2012,2,4,Accessories,9,128,2172.584380,Below quota
+281,Shu Ito,Southwest,2012,2,1,Bikes,18,592,404191.763975,Below quota
+281,Shu Ito,Southwest,2012,2,3,Clothing,13,340,9885.505194,Below quota
+281,Shu Ito,Southwest,2012,2,2,Components,17,366,117382.490600,Below quota
+274,Stephen Jiang,Unassigned,2012,2,4,Accessories,2,46,821.547000,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,2,1,Bikes,7,99,69018.270125,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,2,3,Clothing,3,152,4463.384375,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,2,2,Components,5,87,29559.803000,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2012,2,4,Accessories,13,168,2802.543630,Below quota
+279,Tsvi Reiter,Southeast,2012,2,1,Bikes,33,596,453617.833889,Below quota
+279,Tsvi Reiter,Southeast,2012,2,3,Clothing,20,691,19451.789677,Below quota
+279,Tsvi Reiter,Southeast,2012,2,2,Components,33,477,136499.599400,Below quota
+287,Amy Alberts,Unassigned,2012,3,4,Accessories,1,2,40.373000,Below quota
+287,Amy Alberts,Unassigned,2012,3,1,Bikes,2,14,11921.556100,Below quota
+287,Amy Alberts,Unassigned,2012,3,3,Clothing,2,11,294.211800,Below quota
+287,Amy Alberts,Unassigned,2012,3,2,Components,1,2,391.991700,Below quota
+283,David Campbell,Northwest,2012,3,4,Accessories,6,61,1103.598500,Below quota
+283,David Campbell,Northwest,2012,3,1,Bikes,11,306,260710.549420,Below quota
+283,David Campbell,Northwest,2012,3,3,Clothing,7,204,6039.011616,Below quota
+283,David Campbell,Northwest,2012,3,2,Components,8,191,43354.502400,Below quota
+278,Garrett Vargas,Canada,2012,3,4,Accessories,7,141,2565.337500,Below quota
+278,Garrett Vargas,Canada,2012,3,1,Bikes,16,364,243961.640124,Below quota
+278,Garrett Vargas,Canada,2012,3,3,Clothing,15,497,16110.503064,Below quota
+278,Garrett Vargas,Canada,2012,3,2,Components,19,221,54180.586700,Below quota
+289,Jae Pak,United Kingdom,2012,3,4,Accessories,16,358,6416.670308,Below quota
+289,Jae Pak,United Kingdom,2012,3,1,Bikes,32,1002,875241.473540,Below quota
+289,Jae Pak,United Kingdom,2012,3,3,Clothing,33,1149,35493.513426,Below quota
+289,Jae Pak,United Kingdom,2012,3,2,Components,31,1004,233811.626974,Below quota
+277,Jillian Carson,Central,2012,3,4,Accessories,15,234,4157.211592,Below quota
+277,Jillian Carson,Central,2012,3,1,Bikes,29,1146,933475.172006,Below quota
+277,Jillian Carson,Central,2012,3,3,Clothing,27,762,23576.336395,Below quota
+277,Jillian Carson,Central,2012,3,2,Components,31,843,195507.918300,Below quota
+282,José Saraiva,Canada,2012,3,4,Accessories,7,109,1954.849500,Below quota
+282,José Saraiva,Canada,2012,3,1,Bikes,12,367,326736.009080,Below quota
+282,José Saraiva,Canada,2012,3,3,Clothing,10,360,11086.008694,Below quota
+282,José Saraiva,Canada,2012,3,2,Components,13,322,68637.943157,Below quota
+276,Linda Mitchell,Southwest,2012,3,4,Accessories,17,348,5992.744099,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,3,1,Bikes,32,994,840434.428306,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,3,3,Clothing,29,1148,34384.037608,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,3,2,Components,34,865,206699.741524,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,3,4,Accessories,15,303,5390.878744,Below quota
+275,Michael Blythe,Northeast,2012,3,1,Bikes,34,1195,910106.515707,Below quota
+275,Michael Blythe,Northeast,2012,3,3,Clothing,28,974,30477.852884,Below quota
+275,Michael Blythe,Northeast,2012,3,2,Components,35,794,196990.181158,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,3,4,Accessories,4,62,1146.506936,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,3,1,Bikes,6,152,133842.256200,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,3,3,Clothing,6,210,6002.452220,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,3,2,Components,9,160,39404.666600,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,3,4,Accessories,6,133,2429.956700,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,3,1,Bikes,14,406,310583.020958,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,3,3,Clothing,9,382,12012.177067,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,3,2,Components,13,266,75067.135200,Below quota
+281,Shu Ito,Southwest,2012,3,4,Accessories,8,130,2392.290592,Below quota
+281,Shu Ito,Southwest,2012,3,1,Bikes,18,729,581026.530894,Below quota
+281,Shu Ito,Southwest,2012,3,3,Clothing,14,464,13543.834273,Below quota
+281,Shu Ito,Southwest,2012,3,2,Components,18,533,127397.215000,Below quota
+274,Stephen Jiang,Unassigned,2012,3,4,Accessories,1,2,40.373000,Below quota
+274,Stephen Jiang,Unassigned,2012,3,1,Bikes,4,53,48281.354400,Below quota
+274,Stephen Jiang,Unassigned,2012,3,3,Clothing,5,38,897.372000,Below quota
+274,Stephen Jiang,Unassigned,2012,3,2,Components,3,51,10225.290000,Below quota
+284,Tete Mensa-Annan,Northwest,2012,3,4,Accessories,3,72,1357.594500,Below quota
+284,Tete Mensa-Annan,Northwest,2012,3,1,Bikes,5,216,181728.659400,Below quota
+284,Tete Mensa-Annan,Northwest,2012,3,3,Clothing,4,197,6454.840076,Below quota
+284,Tete Mensa-Annan,Northwest,2012,3,2,Components,7,147,32247.284700,Below quota
+279,Tsvi Reiter,Southeast,2012,3,4,Accessories,7,112,2083.955000,Below quota
+279,Tsvi Reiter,Southeast,2012,3,1,Bikes,28,534,459021.764600,Below quota
+279,Tsvi Reiter,Southeast,2012,3,3,Clothing,21,571,16273.576839,Below quota
+279,Tsvi Reiter,Southeast,2012,3,2,Components,25,387,90624.655000,Below quota
+287,Amy Alberts,Unassigned,2012,4,1,Bikes,2,25,23839.251100,Below quota
+287,Amy Alberts,Unassigned,2012,4,3,Clothing,2,18,583.970400,Below quota
+287,Amy Alberts,Unassigned,2012,4,2,Components,1,13,5225.829400,Below quota
+283,David Campbell,Northwest,2012,4,4,Accessories,1,20,369.605000,Met or exceeded quota
+283,David Campbell,Northwest,2012,4,1,Bikes,11,214,192561.290400,Met or exceeded quota
+283,David Campbell,Northwest,2012,4,3,Clothing,8,141,3997.125517,Met or exceeded quota
+283,David Campbell,Northwest,2012,4,2,Components,10,84,18543.179500,Met or exceeded quota
+278,Garrett Vargas,Canada,2012,4,4,Accessories,7,84,1560.521000,Below quota
+278,Garrett Vargas,Canada,2012,4,1,Bikes,16,245,171175.893248,Below quota
+278,Garrett Vargas,Canada,2012,4,3,Clothing,12,306,8763.103850,Below quota
+278,Garrett Vargas,Canada,2012,4,2,Components,12,92,22147.365600,Below quota
+289,Jae Pak,United Kingdom,2012,4,4,Accessories,16,232,4083.809872,Below quota
+289,Jae Pak,United Kingdom,2012,4,1,Bikes,32,890,751212.444725,Below quota
+289,Jae Pak,United Kingdom,2012,4,3,Clothing,32,760,23158.348556,Below quota
+289,Jae Pak,United Kingdom,2012,4,2,Components,28,532,121515.051596,Below quota
+277,Jillian Carson,Central,2012,4,4,Accessories,15,193,3426.904000,Met or exceeded quota
+277,Jillian Carson,Central,2012,4,1,Bikes,42,989,792876.935592,Met or exceeded quota
+277,Jillian Carson,Central,2012,4,3,Clothing,31,792,22822.906805,Met or exceeded quota
+277,Jillian Carson,Central,2012,4,2,Components,33,460,110151.103500,Met or exceeded quota
+282,José Saraiva,Canada,2012,4,4,Accessories,5,47,838.727500,Met or exceeded quota
+282,José Saraiva,Canada,2012,4,1,Bikes,14,321,277415.258000,Met or exceeded quota
+282,José Saraiva,Canada,2012,4,3,Clothing,10,226,6516.409725,Met or exceeded quota
+282,José Saraiva,Canada,2012,4,2,Components,7,155,39291.153000,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,4,4,Accessories,13,179,3210.449647,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,4,1,Bikes,34,920,758109.587027,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,4,3,Clothing,23,775,23055.462313,Met or exceeded quota
+276,Linda Mitchell,Southwest,2012,4,2,Components,25,394,93377.208100,Met or exceeded quota
+275,Michael Blythe,Northeast,2012,4,4,Accessories,10,94,1738.041356,Below quota
+275,Michael Blythe,Northeast,2012,4,1,Bikes,26,738,562019.360506,Below quota
+275,Michael Blythe,Northeast,2012,4,3,Clothing,15,351,10463.302044,Below quota
+275,Michael Blythe,Northeast,2012,4,2,Components,17,294,70738.518800,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,4,4,Accessories,1,24,430.960000,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,4,1,Bikes,3,92,96591.320452,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,4,3,Clothing,3,113,3483.013000,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2012,4,2,Components,3,71,18340.516600,Below quota
+290,Ranjit Varkey Chudukatil,France,2012,4,4,Accessories,5,62,1088.834500,Met or exceeded quota
+290,Ranjit Varkey Chudukatil,France,2012,4,1,Bikes,13,240,192371.883976,Met or exceeded quota
+290,Ranjit Varkey Chudukatil,France,2012,4,3,Clothing,10,232,7172.833124,Met or exceeded quota
+290,Ranjit Varkey Chudukatil,France,2012,4,2,Components,6,143,35320.247300,Met or exceeded quota
+281,Shu Ito,Southwest,2012,4,4,Accessories,5,55,1001.045000,Met or exceeded quota
+281,Shu Ito,Southwest,2012,4,1,Bikes,19,577,454513.064360,Met or exceeded quota
+281,Shu Ito,Southwest,2012,4,3,Clothing,15,300,9048.297400,Met or exceeded quota
+281,Shu Ito,Southwest,2012,4,2,Components,15,266,60176.583100,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,4,4,Accessories,2,33,618.650500,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,4,1,Bikes,3,232,156772.773983,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,4,3,Clothing,3,90,3325.428200,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2012,4,2,Components,3,69,16579.348200,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2012,4,4,Accessories,3,49,889.473500,Below quota
+284,Tete Mensa-Annan,Northwest,2012,4,1,Bikes,13,254,193423.468100,Below quota
+284,Tete Mensa-Annan,Northwest,2012,4,3,Clothing,9,163,4947.333000,Below quota
+284,Tete Mensa-Annan,Northwest,2012,4,2,Components,8,73,20590.942800,Below quota
+279,Tsvi Reiter,Southeast,2012,4,4,Accessories,8,61,1086.388000,Below quota
+279,Tsvi Reiter,Southeast,2012,4,1,Bikes,27,526,437106.171400,Below quota
+279,Tsvi Reiter,Southeast,2012,4,3,Clothing,19,299,8904.077792,Below quota
+279,Tsvi Reiter,Southeast,2012,4,2,Components,19,181,39030.867100,Below quota
+287,Amy Alberts,Unassigned,2013,1,4,Accessories,1,18,346.972000,Below quota
+287,Amy Alberts,Unassigned,2013,1,1,Bikes,3,55,40332.193500,Below quota
+287,Amy Alberts,Unassigned,2013,1,3,Clothing,2,28,845.719700,Below quota
+287,Amy Alberts,Unassigned,2013,1,2,Components,1,19,3933.458100,Below quota
+283,David Campbell,Northwest,2013,1,4,Accessories,3,48,872.293000,Below quota
+283,David Campbell,Northwest,2013,1,1,Bikes,8,266,213986.945892,Below quota
+283,David Campbell,Northwest,2013,1,3,Clothing,10,239,7039.804857,Below quota
+283,David Campbell,Northwest,2013,1,2,Components,9,189,44174.101632,Below quota
+278,Garrett Vargas,Canada,2013,1,4,Accessories,6,108,1931.748436,Below quota
+278,Garrett Vargas,Canada,2013,1,1,Bikes,16,357,242724.761159,Below quota
+278,Garrett Vargas,Canada,2013,1,3,Clothing,13,403,12755.886956,Below quota
+278,Garrett Vargas,Canada,2013,1,2,Components,15,145,33920.759300,Below quota
+289,Jae Pak,United Kingdom,2013,1,4,Accessories,15,215,3853.081390,Below quota
+289,Jae Pak,United Kingdom,2013,1,1,Bikes,36,992,836829.352118,Below quota
+289,Jae Pak,United Kingdom,2013,1,3,Clothing,33,839,24248.448340,Below quota
+289,Jae Pak,United Kingdom,2013,1,2,Components,21,570,144496.408508,Below quota
+277,Jillian Carson,Central,2013,1,4,Accessories,14,231,4126.131124,Below quota
+277,Jillian Carson,Central,2013,1,1,Bikes,36,1021,808128.188951,Below quota
+277,Jillian Carson,Central,2013,1,3,Clothing,27,772,23030.637128,Below quota
+277,Jillian Carson,Central,2013,1,2,Components,33,570,135100.438100,Below quota
+282,José Saraiva,Canada,2013,1,4,Accessories,5,81,1420.081796,Below quota
+282,José Saraiva,Canada,2013,1,1,Bikes,12,229,187470.526992,Below quota
+282,José Saraiva,Canada,2013,1,3,Clothing,11,266,8090.201216,Below quota
+282,José Saraiva,Canada,2013,1,2,Components,7,168,35010.119400,Below quota
+276,Linda Mitchell,Southwest,2013,1,4,Accessories,13,268,4694.527384,Below quota
+276,Linda Mitchell,Southwest,2013,1,1,Bikes,31,848,704448.545976,Below quota
+276,Linda Mitchell,Southwest,2013,1,3,Clothing,22,815,24442.228557,Below quota
+276,Linda Mitchell,Southwest,2013,1,2,Components,32,556,134267.723600,Below quota
+275,Michael Blythe,Northeast,2013,1,4,Accessories,14,171,3054.553275,Below quota
+275,Michael Blythe,Northeast,2013,1,1,Bikes,31,987,805276.551951,Below quota
+275,Michael Blythe,Northeast,2013,1,3,Clothing,29,505,14932.855001,Below quota
+275,Michael Blythe,Northeast,2013,1,2,Components,24,516,128591.789600,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,1,4,Accessories,2,34,585.850500,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,1,1,Bikes,2,66,58887.503076,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,1,3,Clothing,2,131,3535.901924,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,1,2,Components,3,78,20570.493800,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,1,4,Accessories,7,95,1576.200436,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,1,1,Bikes,12,291,234646.484400,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,1,3,Clothing,13,336,10478.115144,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,1,2,Components,11,217,58223.824400,Below quota
+281,Shu Ito,Southwest,2013,1,4,Accessories,6,48,878.305000,Below quota
+281,Shu Ito,Southwest,2013,1,1,Bikes,18,506,402663.474924,Below quota
+281,Shu Ito,Southwest,2013,1,3,Clothing,13,240,6432.988712,Below quota
+281,Shu Ito,Southwest,2013,1,2,Components,15,251,58632.094300,Below quota
+274,Stephen Jiang,Unassigned,2013,1,4,Accessories,1,30,558.291275,Below quota
+274,Stephen Jiang,Unassigned,2013,1,1,Bikes,3,67,39434.605175,Below quota
+274,Stephen Jiang,Unassigned,2013,1,3,Clothing,2,83,2841.031100,Below quota
+274,Stephen Jiang,Unassigned,2013,1,2,Components,2,28,5675.584800,Below quota
+284,Tete Mensa-Annan,Northwest,2013,1,4,Accessories,4,76,1390.686092,Below quota
+284,Tete Mensa-Annan,Northwest,2013,1,1,Bikes,12,274,213878.470000,Below quota
+284,Tete Mensa-Annan,Northwest,2013,1,3,Clothing,10,236,7844.152812,Below quota
+284,Tete Mensa-Annan,Northwest,2013,1,2,Components,9,147,35750.985700,Below quota
+279,Tsvi Reiter,Southeast,2013,1,4,Accessories,9,114,2068.135108,Below quota
+279,Tsvi Reiter,Southeast,2013,1,1,Bikes,27,526,427855.219808,Below quota
+279,Tsvi Reiter,Southeast,2013,1,3,Clothing,24,538,15855.921894,Below quota
+279,Tsvi Reiter,Southeast,2013,1,2,Components,26,296,65344.840000,Below quota
+287,Amy Alberts,Unassigned,2013,2,4,Accessories,3,126,3108.081140,Below quota
+287,Amy Alberts,Unassigned,2013,2,1,Bikes,7,164,124509.687694,Below quota
+287,Amy Alberts,Unassigned,2013,2,3,Clothing,5,188,4985.832735,Below quota
+287,Amy Alberts,Unassigned,2013,2,2,Components,7,93,28600.051300,Below quota
+283,David Campbell,Northwest,2013,2,4,Accessories,3,100,1856.751459,Below quota
+283,David Campbell,Northwest,2013,2,1,Bikes,11,287,257611.052384,Below quota
+283,David Campbell,Northwest,2013,2,3,Clothing,6,256,7241.174393,Below quota
+283,David Campbell,Northwest,2013,2,2,Components,8,364,91620.008024,Below quota
+278,Garrett Vargas,Canada,2013,2,4,Accessories,10,305,6871.656717,Below quota
+278,Garrett Vargas,Canada,2013,2,1,Bikes,18,352,273050.873766,Below quota
+278,Garrett Vargas,Canada,2013,2,3,Clothing,16,661,16440.876651,Below quota
+278,Garrett Vargas,Canada,2013,2,2,Components,17,277,71369.056500,Below quota
+289,Jae Pak,United Kingdom,2013,2,4,Accessories,19,520,10799.947574,Below quota
+289,Jae Pak,United Kingdom,2013,2,1,Bikes,33,979,815615.863571,Below quota
+289,Jae Pak,United Kingdom,2013,2,3,Clothing,33,1292,36068.739008,Below quota
+289,Jae Pak,United Kingdom,2013,2,2,Components,32,1162,265462.223589,Below quota
+277,Jillian Carson,Central,2013,2,4,Accessories,17,553,10856.379664,Below quota
+277,Jillian Carson,Central,2013,2,1,Bikes,35,840,632209.795673,Below quota
+277,Jillian Carson,Central,2013,2,3,Clothing,29,1229,32424.133499,Below quota
+277,Jillian Carson,Central,2013,2,2,Components,39,874,208794.997428,Below quota
+282,José Saraiva,Canada,2013,2,4,Accessories,7,287,6498.615984,Below quota
+282,José Saraiva,Canada,2013,2,1,Bikes,14,363,310324.469567,Below quota
+282,José Saraiva,Canada,2013,2,3,Clothing,15,589,15592.876844,Below quota
+282,José Saraiva,Canada,2013,2,2,Components,18,424,91910.026036,Below quota
+276,Linda Mitchell,Southwest,2013,2,4,Accessories,14,560,12394.390770,Below quota
+276,Linda Mitchell,Southwest,2013,2,1,Bikes,31,1164,951829.713388,Below quota
+276,Linda Mitchell,Southwest,2013,2,3,Clothing,22,1377,37692.689791,Below quota
+276,Linda Mitchell,Southwest,2013,2,2,Components,32,1084,229044.761111,Below quota
+286,Lynn Tsoflias,Australia,2013,2,4,Accessories,2,73,2012.394000,Below quota
+286,Lynn Tsoflias,Australia,2013,2,1,Bikes,14,198,143783.934894,Below quota
+286,Lynn Tsoflias,Australia,2013,2,3,Clothing,8,122,3379.419792,Below quota
+286,Lynn Tsoflias,Australia,2013,2,2,Components,13,146,34929.947328,Below quota
+275,Michael Blythe,Northeast,2013,2,4,Accessories,20,345,7247.527928,Below quota
+275,Michael Blythe,Northeast,2013,2,1,Bikes,36,951,785601.581500,Below quota
+275,Michael Blythe,Northeast,2013,2,3,Clothing,31,906,24462.127082,Below quota
+275,Michael Blythe,Northeast,2013,2,2,Components,36,918,208367.563328,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,2,4,Accessories,3,85,1992.382608,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,2,1,Bikes,4,197,148613.060150,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,2,3,Clothing,4,283,8242.695717,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,2,2,Components,4,204,46109.626872,Below quota
+288,Rachel Valdez,Germany,2013,2,4,Accessories,7,344,7251.489998,Below quota
+288,Rachel Valdez,Germany,2013,2,1,Bikes,15,369,261918.167793,Below quota
+288,Rachel Valdez,Germany,2013,2,3,Clothing,12,635,15751.347785,Below quota
+288,Rachel Valdez,Germany,2013,2,2,Components,18,325,87052.191100,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,2,4,Accessories,9,401,9152.465407,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,2,1,Bikes,19,784,588408.701737,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,2,3,Clothing,17,822,22564.028642,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,2,2,Components,23,920,209270.619604,Below quota
+281,Shu Ito,Southwest,2013,2,4,Accessories,10,377,7798.404200,Below quota
+281,Shu Ito,Southwest,2013,2,1,Bikes,24,659,526737.164601,Below quota
+281,Shu Ito,Southwest,2013,2,3,Clothing,18,788,20725.590673,Below quota
+281,Shu Ito,Southwest,2013,2,2,Components,23,606,166249.194075,Below quota
+274,Stephen Jiang,Unassigned,2013,2,4,Accessories,2,56,1189.224000,Below quota
+274,Stephen Jiang,Unassigned,2013,2,1,Bikes,4,129,110628.005726,Below quota
+274,Stephen Jiang,Unassigned,2013,2,3,Clothing,2,113,2553.236016,Below quota
+274,Stephen Jiang,Unassigned,2013,2,2,Components,2,69,16522.110000,Below quota
+284,Tete Mensa-Annan,Northwest,2013,2,4,Accessories,3,40,1080.802050,Below quota
+284,Tete Mensa-Annan,Northwest,2013,2,1,Bikes,15,268,196333.725780,Below quota
+284,Tete Mensa-Annan,Northwest,2013,2,3,Clothing,9,149,4381.501501,Below quota
+284,Tete Mensa-Annan,Northwest,2013,2,2,Components,15,228,56699.612100,Below quota
+279,Tsvi Reiter,Southeast,2013,2,4,Accessories,12,303,6076.821000,Below quota
+279,Tsvi Reiter,Southeast,2013,2,1,Bikes,30,543,447712.365451,Below quota
+279,Tsvi Reiter,Southeast,2013,2,3,Clothing,22,785,21817.831976,Below quota
+279,Tsvi Reiter,Southeast,2013,2,2,Components,31,556,118822.596000,Below quota
+287,Amy Alberts,Unassigned,2013,3,4,Accessories,1,3,216.000000,Below quota
+287,Amy Alberts,Unassigned,2013,3,1,Bikes,8,92,80955.202875,Below quota
+287,Amy Alberts,Unassigned,2013,3,3,Clothing,3,48,1726.718175,Below quota
+287,Amy Alberts,Unassigned,2013,3,2,Components,4,66,7323.840000,Below quota
+283,David Campbell,Northwest,2013,3,4,Accessories,6,128,3467.324108,Met or exceeded quota
+283,David Campbell,Northwest,2013,3,1,Bikes,16,372,298953.002832,Met or exceeded quota
+283,David Campbell,Northwest,2013,3,3,Clothing,8,269,8374.078284,Met or exceeded quota
+283,David Campbell,Northwest,2013,3,2,Components,16,404,87463.584000,Met or exceeded quota
+278,Garrett Vargas,Canada,2013,3,4,Accessories,12,362,9176.275948,Below quota
+278,Garrett Vargas,Canada,2013,3,1,Bikes,20,372,306218.481725,Below quota
+278,Garrett Vargas,Canada,2013,3,3,Clothing,16,590,15609.623421,Below quota
+278,Garrett Vargas,Canada,2013,3,2,Components,23,287,62783.142000,Below quota
+289,Jae Pak,United Kingdom,2013,3,4,Accessories,17,489,11798.686527,Below quota
+289,Jae Pak,United Kingdom,2013,3,1,Bikes,38,947,776744.465794,Below quota
+289,Jae Pak,United Kingdom,2013,3,3,Clothing,34,1244,34368.677283,Below quota
+289,Jae Pak,United Kingdom,2013,3,2,Components,35,982,211132.095634,Below quota
+277,Jillian Carson,Central,2013,3,4,Accessories,21,652,15933.084831,Below quota
+277,Jillian Carson,Central,2013,3,1,Bikes,38,821,659138.866426,Below quota
+277,Jillian Carson,Central,2013,3,3,Clothing,32,1341,34916.468397,Below quota
+277,Jillian Carson,Central,2013,3,2,Components,41,757,174067.716000,Below quota
+282,José Saraiva,Canada,2013,3,4,Accessories,14,433,11541.735308,Met or exceeded quota
+282,José Saraiva,Canada,2013,3,1,Bikes,22,712,555406.179318,Met or exceeded quota
+282,José Saraiva,Canada,2013,3,3,Clothing,18,859,22257.463877,Met or exceeded quota
+282,José Saraiva,Canada,2013,3,2,Components,21,646,159224.577084,Met or exceeded quota
+276,Linda Mitchell,Southwest,2013,3,4,Accessories,17,576,14040.513440,Below quota
+276,Linda Mitchell,Southwest,2013,3,1,Bikes,34,1039,860391.644625,Below quota
+276,Linda Mitchell,Southwest,2013,3,3,Clothing,26,1225,32379.849222,Below quota
+276,Linda Mitchell,Southwest,2013,3,2,Components,39,932,201508.795768,Below quota
+286,Lynn Tsoflias,Australia,2013,3,4,Accessories,7,126,3388.800000,Below quota
+286,Lynn Tsoflias,Australia,2013,3,1,Bikes,20,325,270259.119150,Below quota
+286,Lynn Tsoflias,Australia,2013,3,3,Clothing,10,263,7584.139584,Below quota
+286,Lynn Tsoflias,Australia,2013,3,2,Components,18,239,50327.400000,Below quota
+275,Michael Blythe,Northeast,2013,3,4,Accessories,13,276,7606.191600,Below quota
+275,Michael Blythe,Northeast,2013,3,1,Bikes,38,1049,927293.813124,Below quota
+275,Michael Blythe,Northeast,2013,3,3,Clothing,27,783,20085.851019,Below quota
+275,Michael Blythe,Northeast,2013,3,2,Components,36,950,204174.741072,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,3,4,Accessories,3,77,1334.695376,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,3,1,Bikes,6,293,262737.334092,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,3,3,Clothing,6,218,6694.870284,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,3,2,Components,6,422,79949.331268,Below quota
+288,Rachel Valdez,Germany,2013,3,4,Accessories,14,453,9878.490242,Below quota
+288,Rachel Valdez,Germany,2013,3,1,Bikes,24,482,387330.823458,Below quota
+288,Rachel Valdez,Germany,2013,3,3,Clothing,21,789,21359.124327,Below quota
+288,Rachel Valdez,Germany,2013,3,2,Components,25,368,89674.333300,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,3,4,Accessories,12,439,11322.539037,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,3,1,Bikes,22,754,666066.942052,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,3,3,Clothing,20,787,22032.963732,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,3,2,Components,24,685,165531.129656,Below quota
+281,Shu Ito,Southwest,2013,3,4,Accessories,14,298,7670.902852,Below quota
+281,Shu Ito,Southwest,2013,3,1,Bikes,22,637,522183.320100,Below quota
+281,Shu Ito,Southwest,2013,3,3,Clothing,18,695,17422.961082,Below quota
+281,Shu Ito,Southwest,2013,3,2,Components,23,493,121242.360000,Below quota
+274,Stephen Jiang,Unassigned,2013,3,4,Accessories,2,116,2435.938320,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2013,3,1,Bikes,5,160,140410.768800,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2013,3,3,Clothing,3,217,5216.052747,Met or exceeded quota
+274,Stephen Jiang,Unassigned,2013,3,2,Components,4,207,32808.516432,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,3,4,Accessories,4,141,3959.094000,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,3,1,Bikes,5,117,86863.594575,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,3,3,Clothing,4,256,6921.278500,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,3,2,Components,6,102,17041.848000,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2013,3,4,Accessories,7,138,3568.440000,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2013,3,1,Bikes,20,378,315963.261845,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2013,3,3,Clothing,11,258,6422.244508,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2013,3,2,Components,16,248,62758.926000,Met or exceeded quota
+279,Tsvi Reiter,Southeast,2013,3,4,Accessories,13,269,6772.254583,Below quota
+279,Tsvi Reiter,Southeast,2013,3,1,Bikes,36,602,475944.894675,Below quota
+279,Tsvi Reiter,Southeast,2013,3,3,Clothing,24,640,16529.070358,Below quota
+279,Tsvi Reiter,Southeast,2013,3,2,Components,32,456,96271.248000,Below quota
+287,Amy Alberts,Unassigned,2013,4,4,Accessories,2,74,1582.987058,Met or exceeded quota
+287,Amy Alberts,Unassigned,2013,4,1,Bikes,9,238,216360.372000,Met or exceeded quota
+287,Amy Alberts,Unassigned,2013,4,3,Clothing,8,144,4529.288152,Met or exceeded quota
+287,Amy Alberts,Unassigned,2013,4,2,Components,4,201,40735.379828,Met or exceeded quota
+283,David Campbell,Northwest,2013,4,4,Accessories,6,93,2103.420000,Met or exceeded quota
+283,David Campbell,Northwest,2013,4,1,Bikes,18,270,260213.045308,Met or exceeded quota
+283,David Campbell,Northwest,2013,4,3,Clothing,11,193,6404.939850,Met or exceeded quota
+283,David Campbell,Northwest,2013,4,2,Components,10,214,60040.836000,Met or exceeded quota
+278,Garrett Vargas,Canada,2013,4,4,Accessories,8,189,4737.080891,Met or exceeded quota
+278,Garrett Vargas,Canada,2013,4,1,Bikes,19,350,297517.996044,Met or exceeded quota
+278,Garrett Vargas,Canada,2013,4,3,Clothing,14,346,9535.340526,Met or exceeded quota
+278,Garrett Vargas,Canada,2013,4,2,Components,16,111,25193.250000,Met or exceeded quota
+289,Jae Pak,United Kingdom,2013,4,4,Accessories,15,380,10185.265084,Met or exceeded quota
+289,Jae Pak,United Kingdom,2013,4,1,Bikes,35,826,756629.544000,Met or exceeded quota
+289,Jae Pak,United Kingdom,2013,4,3,Clothing,33,854,24078.653424,Met or exceeded quota
+289,Jae Pak,United Kingdom,2013,4,2,Components,30,711,143752.562712,Met or exceeded quota
+277,Jillian Carson,Central,2013,4,4,Accessories,14,387,9043.565268,Below quota
+277,Jillian Carson,Central,2013,4,1,Bikes,36,662,545181.095001,Below quota
+277,Jillian Carson,Central,2013,4,3,Clothing,31,858,22433.737800,Below quota
+277,Jillian Carson,Central,2013,4,2,Components,32,407,81391.032000,Below quota
+282,José Saraiva,Canada,2013,4,4,Accessories,9,191,4817.137584,Below quota
+282,José Saraiva,Canada,2013,4,1,Bikes,21,467,401355.498433,Below quota
+282,José Saraiva,Canada,2013,4,3,Clothing,13,419,11873.646527,Below quota
+282,José Saraiva,Canada,2013,4,2,Components,12,215,48091.026000,Below quota
+276,Linda Mitchell,Southwest,2013,4,4,Accessories,14,321,7897.398000,Met or exceeded quota
+276,Linda Mitchell,Southwest,2013,4,1,Bikes,36,918,802281.894751,Met or exceeded quota
+276,Linda Mitchell,Southwest,2013,4,3,Clothing,29,777,21337.886967,Met or exceeded quota
+276,Linda Mitchell,Southwest,2013,4,2,Components,32,420,72642.342000,Met or exceeded quota
+286,Lynn Tsoflias,Australia,2013,4,4,Accessories,8,201,5354.166108,Below quota
+286,Lynn Tsoflias,Australia,2013,4,1,Bikes,20,305,273542.226000,Below quota
+286,Lynn Tsoflias,Australia,2013,4,3,Clothing,14,301,8497.788458,Below quota
+286,Lynn Tsoflias,Australia,2013,4,2,Components,14,171,32995.788000,Below quota
+275,Michael Blythe,Northeast,2013,4,4,Accessories,7,167,3953.947485,Below quota
+275,Michael Blythe,Northeast,2013,4,1,Bikes,34,800,719882.740044,Below quota
+275,Michael Blythe,Northeast,2013,4,3,Clothing,28,492,13234.590868,Below quota
+275,Michael Blythe,Northeast,2013,4,2,Components,31,575,111608.474576,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,4,4,Accessories,4,74,1599.372000,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,4,1,Bikes,6,315,277151.719268,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,4,3,Clothing,5,141,4858.677517,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2013,4,2,Components,6,205,40557.066000,Below quota
+288,Rachel Valdez,Germany,2013,4,4,Accessories,11,257,6499.968000,Below quota
+288,Rachel Valdez,Germany,2013,4,1,Bikes,23,309,284751.868656,Below quota
+288,Rachel Valdez,Germany,2013,4,3,Clothing,15,516,14295.492901,Below quota
+288,Rachel Valdez,Germany,2013,4,2,Components,20,188,59695.482000,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,4,4,Accessories,8,259,6622.666212,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,4,1,Bikes,24,601,539888.907356,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,4,3,Clothing,18,482,13880.359026,Below quota
+290,Ranjit Varkey Chudukatil,France,2013,4,2,Components,15,366,86412.462000,Below quota
+281,Shu Ito,Southwest,2013,4,4,Accessories,8,141,3648.096000,Below quota
+281,Shu Ito,Southwest,2013,4,1,Bikes,23,564,468478.732020,Below quota
+281,Shu Ito,Southwest,2013,4,3,Clothing,18,384,9797.340933,Below quota
+281,Shu Ito,Southwest,2013,4,2,Components,21,253,46695.132000,Below quota
+274,Stephen Jiang,Unassigned,2013,4,1,Bikes,1,59,61075.043268,Below quota
+274,Stephen Jiang,Unassigned,2013,4,3,Clothing,2,3,122.088000,Below quota
+274,Stephen Jiang,Unassigned,2013,4,2,Components,1,29,9618.228000,Below quota
+285,Syed Abbas,Unassigned,2013,4,4,Accessories,1,43,954.750000,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,4,1,Bikes,5,39,31405.926000,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,4,3,Clothing,1,38,944.196000,Met or exceeded quota
+285,Syed Abbas,Unassigned,2013,4,2,Components,2,16,3166.428000,Met or exceeded quota
+284,Tete Mensa-Annan,Northwest,2013,4,4,Accessories,4,50,1554.216000,Below quota
+284,Tete Mensa-Annan,Northwest,2013,4,1,Bikes,21,372,316654.896000,Below quota
+284,Tete Mensa-Annan,Northwest,2013,4,3,Clothing,13,169,4451.439125,Below quota
+284,Tete Mensa-Annan,Northwest,2013,4,2,Components,17,154,41175.564000,Below quota
+279,Tsvi Reiter,Southeast,2013,4,4,Accessories,8,157,3906.027784,Below quota
+279,Tsvi Reiter,Southeast,2013,4,1,Bikes,35,501,419271.234000,Below quota
+279,Tsvi Reiter,Southeast,2013,4,3,Clothing,24,445,12470.822177,Below quota
+279,Tsvi Reiter,Southeast,2013,4,2,Components,23,227,51363.498000,Below quota
+287,Amy Alberts,Unassigned,2014,1,1,Bikes,3,65,53937.112800,Met or exceeded quota
+287,Amy Alberts,Unassigned,2014,1,3,Clothing,1,2,116.987000,Met or exceeded quota
+287,Amy Alberts,Unassigned,2014,1,2,Components,2,15,2583.648000,Met or exceeded quota
+283,David Campbell,Northwest,2014,1,4,Accessories,3,73,1767.046420,Below quota
+283,David Campbell,Northwest,2014,1,1,Bikes,15,316,286755.600744,Below quota
+283,David Campbell,Northwest,2014,1,3,Clothing,9,249,7795.705351,Below quota
+283,David Campbell,Northwest,2014,1,2,Components,14,278,52195.998000,Below quota
+278,Garrett Vargas,Canada,2014,1,4,Accessories,11,275,6941.233460,Below quota
+278,Garrett Vargas,Canada,2014,1,1,Bikes,20,297,240529.083600,Below quota
+278,Garrett Vargas,Canada,2014,1,3,Clothing,15,479,13061.057874,Below quota
+278,Garrett Vargas,Canada,2014,1,2,Components,18,151,30004.572000,Below quota
+289,Jae Pak,United Kingdom,2014,1,4,Accessories,18,426,10555.235640,Below quota
+289,Jae Pak,United Kingdom,2014,1,1,Bikes,36,844,747226.660845,Below quota
+289,Jae Pak,United Kingdom,2014,1,3,Clothing,32,948,28143.560282,Below quota
+289,Jae Pak,United Kingdom,2014,1,2,Components,31,709,157287.074592,Below quota
+277,Jillian Carson,Central,2014,1,4,Accessories,22,463,10658.342119,Below quota
+277,Jillian Carson,Central,2014,1,1,Bikes,34,656,562834.192676,Below quota
+277,Jillian Carson,Central,2014,1,3,Clothing,30,902,23915.580385,Below quota
+277,Jillian Carson,Central,2014,1,2,Components,39,470,104699.070000,Below quota
+282,José Saraiva,Canada,2014,1,4,Accessories,15,312,7677.608723,Below quota
+282,José Saraiva,Canada,2014,1,1,Bikes,21,608,514536.574532,Below quota
+282,José Saraiva,Canada,2014,1,3,Clothing,21,594,16840.611768,Below quota
+282,José Saraiva,Canada,2014,1,2,Components,19,345,79776.924000,Below quota
+276,Linda Mitchell,Southwest,2014,1,4,Accessories,14,370,8730.642312,Below quota
+276,Linda Mitchell,Southwest,2014,1,1,Bikes,36,998,843404.171472,Below quota
+276,Linda Mitchell,Southwest,2014,1,3,Clothing,27,810,21370.252195,Below quota
+276,Linda Mitchell,Southwest,2014,1,2,Components,29,618,114872.411088,Below quota
+286,Lynn Tsoflias,Australia,2014,1,4,Accessories,7,82,2631.546000,Below quota
+286,Lynn Tsoflias,Australia,2014,1,1,Bikes,23,347,320289.102000,Below quota
+286,Lynn Tsoflias,Australia,2014,1,3,Clothing,14,185,5181.392976,Below quota
+286,Lynn Tsoflias,Australia,2014,1,2,Components,19,151,30308.778000,Below quota
+275,Michael Blythe,Northeast,2014,1,4,Accessories,10,120,3492.312000,Below quota
+275,Michael Blythe,Northeast,2014,1,1,Bikes,34,629,563616.618000,Below quota
+275,Michael Blythe,Northeast,2014,1,3,Clothing,28,448,10899.138213,Below quota
+275,Michael Blythe,Northeast,2014,1,2,Components,28,550,109232.328000,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2014,1,4,Accessories,2,75,1709.574980,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2014,1,1,Bikes,6,317,310074.283668,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2014,1,3,Clothing,5,184,5774.232084,Below quota
+280,Pamela Ansman-Wolfe,Northwest,2014,1,2,Components,6,174,36260.076000,Below quota
+288,Rachel Valdez,Germany,2014,1,4,Accessories,10,343,8063.492656,Below quota
+288,Rachel Valdez,Germany,2014,1,1,Bikes,22,423,365253.542208,Below quota
+288,Rachel Valdez,Germany,2014,1,3,Clothing,19,571,15445.292717,Below quota
+288,Rachel Valdez,Germany,2014,1,2,Components,20,216,55859.357600,Below quota
+290,Ranjit Varkey Chudukatil,France,2014,1,4,Accessories,12,364,9681.218908,Below quota
+290,Ranjit Varkey Chudukatil,France,2014,1,1,Bikes,26,682,590539.988644,Below quota
+290,Ranjit Varkey Chudukatil,France,2014,1,3,Clothing,17,640,18720.745126,Below quota
+290,Ranjit Varkey Chudukatil,France,2014,1,2,Components,21,555,129340.362000,Below quota
+281,Shu Ito,Southwest,2014,1,4,Accessories,11,248,6362.904837,Below quota
+281,Shu Ito,Southwest,2014,1,1,Bikes,22,596,478518.086145,Below quota
+281,Shu Ito,Southwest,2014,1,3,Clothing,18,520,13633.327841,Below quota
+281,Shu Ito,Southwest,2014,1,2,Components,19,232,59302.158000,Below quota
+274,Stephen Jiang,Unassigned,2014,1,4,Accessories,4,89,2595.438000,Below quota
+274,Stephen Jiang,Unassigned,2014,1,1,Bikes,5,137,115341.946800,Below quota
+274,Stephen Jiang,Unassigned,2014,1,3,Clothing,3,171,5150.421708,Below quota
+274,Stephen Jiang,Unassigned,2014,1,2,Components,5,99,17843.634000,Below quota
+285,Syed Abbas,Unassigned,2014,1,4,Accessories,2,7,434.994000,Below quota
+285,Syed Abbas,Unassigned,2014,1,1,Bikes,1,14,14966.496000,Below quota
+285,Syed Abbas,Unassigned,2014,1,3,Clothing,2,42,1367.244000,Below quota
+285,Syed Abbas,Unassigned,2014,1,2,Components,1,5,301.488000,Below quota
+284,Tete Mensa-Annan,Northwest,2014,1,4,Accessories,5,73,1703.934000,Below quota
+284,Tete Mensa-Annan,Northwest,2014,1,1,Bikes,21,467,402793.954800,Below quota
+284,Tete Mensa-Annan,Northwest,2014,1,3,Clothing,14,192,4360.886450,Below quota
+284,Tete Mensa-Annan,Northwest,2014,1,2,Components,14,185,48755.400000,Below quota
+279,Tsvi Reiter,Southeast,2014,1,4,Accessories,13,191,4320.432372,Below quota
+279,Tsvi Reiter,Southeast,2014,1,1,Bikes,34,539,472883.725476,Below quota
+279,Tsvi Reiter,Southeast,2014,1,3,Clothing,24,475,13857.084440,Below quota
+279,Tsvi Reiter,Southeast,2014,1,2,Components,28,275,63251.322000,Below quota
+283,David Campbell,Northwest,2014,2,4,Accessories,2,24,435.306000,No quota record
+283,David Campbell,Northwest,2014,2,1,Bikes,3,124,120737.906400,No quota record
+283,David Campbell,Northwest,2014,2,3,Clothing,3,46,1560.978000,No quota record
+283,David Campbell,Northwest,2014,2,2,Components,4,112,19217.778000,No quota record
+278,Garrett Vargas,Canada,2014,2,4,Accessories,4,95,2351.050300,No quota record
+278,Garrett Vargas,Canada,2014,2,1,Bikes,8,133,108458.348400,No quota record
+278,Garrett Vargas,Canada,2014,2,3,Clothing,5,152,4672.501532,No quota record
+278,Garrett Vargas,Canada,2014,2,2,Components,9,104,29931.108000,No quota record
+289,Jae Pak,United Kingdom,2014,2,4,Accessories,7,237,6150.071177,No quota record
+289,Jae Pak,United Kingdom,2014,2,1,Bikes,19,391,333130.285200,No quota record
+289,Jae Pak,United Kingdom,2014,2,3,Clothing,13,556,15638.771474,No quota record
+289,Jae Pak,United Kingdom,2014,2,2,Components,15,350,84864.924700,No quota record
+277,Jillian Carson,Central,2014,2,4,Accessories,6,240,5969.166979,No quota record
+277,Jillian Carson,Central,2014,2,1,Bikes,11,327,272684.379658,No quota record
+277,Jillian Carson,Central,2014,2,3,Clothing,10,392,9440.611084,No quota record
+277,Jillian Carson,Central,2014,2,2,Components,12,177,49892.064000,No quota record
+282,José Saraiva,Canada,2014,2,4,Accessories,6,182,3908.936411,No quota record
+282,José Saraiva,Canada,2014,2,1,Bikes,9,412,347534.426196,No quota record
+282,José Saraiva,Canada,2014,2,3,Clothing,9,304,8782.874057,No quota record
+282,José Saraiva,Canada,2014,2,2,Components,11,274,65752.872000,No quota record
+276,Linda Mitchell,Southwest,2014,2,4,Accessories,7,153,3006.207601,No quota record
+276,Linda Mitchell,Southwest,2014,2,1,Bikes,13,271,227077.132408,No quota record
+276,Linda Mitchell,Southwest,2014,2,3,Clothing,14,302,7304.844385,No quota record
+276,Linda Mitchell,Southwest,2014,2,2,Components,17,189,45322.860000,No quota record
+286,Lynn Tsoflias,Australia,2014,2,4,Accessories,7,190,5211.786000,No quota record
+286,Lynn Tsoflias,Australia,2014,2,1,Bikes,13,206,178513.219200,No quota record
+286,Lynn Tsoflias,Australia,2014,2,3,Clothing,9,303,9040.344352,No quota record
+286,Lynn Tsoflias,Australia,2014,2,2,Components,12,189,34579.632000,No quota record
+275,Michael Blythe,Northeast,2014,2,4,Accessories,6,103,2780.468108,No quota record
+275,Michael Blythe,Northeast,2014,2,1,Bikes,18,297,283670.463600,No quota record
+275,Michael Blythe,Northeast,2014,2,3,Clothing,12,295,8781.632651,No quota record
+275,Michael Blythe,Northeast,2014,2,2,Components,15,375,74774.418000,No quota record
+280,Pamela Ansman-Wolfe,Northwest,2014,2,4,Accessories,2,8,323.304000,No quota record
+280,Pamela Ansman-Wolfe,Northwest,2014,2,1,Bikes,3,142,120107.455200,No quota record
+280,Pamela Ansman-Wolfe,Northwest,2014,2,3,Clothing,2,41,1572.756108,No quota record
+280,Pamela Ansman-Wolfe,Northwest,2014,2,2,Components,3,182,29110.362000,No quota record
+288,Rachel Valdez,Germany,2014,2,4,Accessories,4,67,1686.084000,No quota record
+288,Rachel Valdez,Germany,2014,2,1,Bikes,8,130,108980.532000,No quota record
+288,Rachel Valdez,Germany,2014,2,3,Clothing,9,135,4332.127000,No quota record
+288,Rachel Valdez,Germany,2014,2,2,Components,8,113,21987.504000,No quota record
+290,Ranjit Varkey Chudukatil,France,2014,2,4,Accessories,3,92,2200.233236,No quota record
+290,Ranjit Varkey Chudukatil,France,2014,2,1,Bikes,6,108,91371.279352,No quota record
+290,Ranjit Varkey Chudukatil,France,2014,2,3,Clothing,6,137,3680.534709,No quota record
+290,Ranjit Varkey Chudukatil,France,2014,2,2,Components,5,108,21984.252000,No quota record
+281,Shu Ito,Southwest,2014,2,4,Accessories,4,12,404.286000,No quota record
+281,Shu Ito,Southwest,2014,2,1,Bikes,9,189,171364.669200,No quota record
+281,Shu Ito,Southwest,2014,2,3,Clothing,7,81,2022.450000,No quota record
+281,Shu Ito,Southwest,2014,2,2,Components,10,172,46333.770000,No quota record
+274,Stephen Jiang,Unassigned,2014,2,4,Accessories,1,46,1139.088000,No quota record
+274,Stephen Jiang,Unassigned,2014,2,1,Bikes,2,47,31384.746000,No quota record
+274,Stephen Jiang,Unassigned,2014,2,3,Clothing,1,30,961.950000,No quota record
+274,Stephen Jiang,Unassigned,2014,2,2,Components,1,19,4167.138000,No quota record
+285,Syed Abbas,Unassigned,2014,2,1,Bikes,2,5,4197.114000,No quota record
+284,Tete Mensa-Annan,Northwest,2014,2,4,Accessories,4,46,1339.344000,No quota record
+284,Tete Mensa-Annan,Northwest,2014,2,1,Bikes,9,135,117703.059600,No quota record
+284,Tete Mensa-Annan,Northwest,2014,2,3,Clothing,5,107,2889.895508,No quota record
+284,Tete Mensa-Annan,Northwest,2014,2,2,Components,10,89,21450.696000,No quota record
+279,Tsvi Reiter,Southeast,2014,2,4,Accessories,3,80,1705.820904,No quota record
+279,Tsvi Reiter,Southeast,2014,2,1,Bikes,11,218,199213.848000,No quota record
+279,Tsvi Reiter,Southeast,2014,2,3,Clothing,8,132,3489.223648,No quota record
+279,Tsvi Reiter,Southeast,2014,2,2,Components,9,102,28482.972000,No quota record

@@ -1,0 +1,180 @@
+﻿SalesPersonID,SalespersonName,AssignedTerritory,SalesYear,SalesQuarter,QuotaDate,ActualSales,SalesQuota,PreviousQuota,QuotaVariance,AttainmentPct,OrderCount,PeriodStatus,IsComparablePeriod,QuotaQualityFlag
+283,David Campbell,Northwest,2011,2,2011-05-31 00:00:00.000,69472.996300,226000.00,NULL,NULL,NULL,5,Partial sales history,0,No prior quota
+278,Garrett Vargas,Canada,2011,2,2011-05-31 00:00:00.000,9109.168300,244000.00,NULL,NULL,NULL,2,Partial sales history,0,No prior quota
+277,Jillian Carson,Central,2011,2,2011-05-31 00:00:00.000,46695.556400,565000.00,NULL,NULL,NULL,4,Partial sales history,0,No prior quota
+282,José Saraiva,Canada,2011,2,2011-05-31 00:00:00.000,106251.727700,525000.00,NULL,NULL,NULL,5,Partial sales history,0,No prior quota
+276,Linda Mitchell,Southwest,2011,2,2011-05-31 00:00:00.000,5475.948500,637000.00,NULL,NULL,NULL,2,Partial sales history,0,No prior quota
+275,Michael Blythe,Northeast,2011,2,2011-05-31 00:00:00.000,63762.922800,367000.00,NULL,NULL,NULL,8,Partial sales history,0,No prior quota
+280,Pamela Ansman-Wolfe,Northwest,2011,2,2011-05-31 00:00:00.000,24432.608800,165000.00,NULL,NULL,NULL,1,Partial sales history,0,No prior quota
+281,Shu Ito,Southwest,2011,2,2011-05-31 00:00:00.000,59708.320800,460000.00,NULL,NULL,NULL,3,Partial sales history,0,No prior quota
+274,Stephen Jiang,Unassigned,2011,2,2011-05-31 00:00:00.000,0.000000,28000.00,NULL,NULL,NULL,0,Partial sales history,0,No prior quota
+279,Tsvi Reiter,Southeast,2011,2,2011-05-31 00:00:00.000,104419.329100,669000.00,NULL,NULL,NULL,8,Partial sales history,0,No prior quota
+283,David Campbell,Northwest,2011,3,2011-08-31 00:00:00.000,240723.056550,353000.00,226000.00,-112276.943450,68.193500,10,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2011,3,2011-08-31 00:00:00.000,233695.666400,356000.00,244000.00,-122304.333600,65.644850,13,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2011,3,2011-08-31 00:00:00.000,501750.779574,872000.00,565000.00,-370249.220426,57.540227,26,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2011,3,2011-08-31 00:00:00.000,521793.539584,767000.00,525000.00,-245206.460416,68.030448,26,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2011,3,2011-08-31 00:00:00.000,459539.356700,781000.00,637000.00,-321460.643300,58.839866,19,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2011,3,2011-08-31 00:00:00.000,348807.305300,556000.00,367000.00,-207192.694700,62.735126,28,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2011,3,2011-08-31 00:00:00.000,224635.620900,469000.00,165000.00,-244364.379100,47.896720,9,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2011,3,2011-08-31 00:00:00.000,416163.172576,549000.00,460000.00,-132836.827424,75.803856,15,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2011,3,2011-08-31 00:00:00.000,22584.695500,7000.00,28000.00,15584.695500,322.638507,2,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2011,3,2011-08-31 00:00:00.000,579333.193100,917000.00,669000.00,-337666.806900,63.177011,27,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2011,4,2011-12-01 00:00:00.000,289791.891500,280000.00,353000.00,9791.891500,103.497104,13,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2011,4,2011-12-01 00:00:00.000,257286.985500,266000.00,356000.00,-8713.014500,96.724430,15,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2011,4,2011-12-01 00:00:00.000,763180.955872,846000.00,872000.00,-82819.044128,90.210514,29,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2011,4,2011-12-01 00:00:00.000,546962.208040,583000.00,767000.00,-36037.791960,93.818560,25,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2011,4,2011-12-01 00:00:00.000,684700.020100,665000.00,781000.00,19700.020100,102.962409,25,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2011,4,2011-12-01 00:00:00.000,463253.603740,502000.00,556000.00,-38746.396260,92.281594,29,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2011,4,2011-12-01 00:00:00.000,399417.356500,264000.00,469000.00,135417.356500,151.294453,12,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2011,4,2011-12-01 00:00:00.000,491725.796550,473000.00,549000.00,18725.796550,103.958942,15,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2011,4,2011-12-01 00:00:00.000,6341.551000,91000.00,7000.00,-84658.449000,6.968737,2,Comparable period,1,Review: quota increased >5x
+279,Tsvi Reiter,Southeast,2011,4,2011-12-01 00:00:00.000,837536.665868,780000.00,917000.00,57536.665868,107.376495,28,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2012,1,2012-02-29 00:00:00.000,397533.712100,267000.00,280000.00,130533.712100,148.889030,14,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2012,1,2012-02-29 00:00:00.000,410517.618492,341000.00,266000.00,69517.618492,120.386398,20,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2012,1,2012-02-29 00:00:00.000,1161798.213000,952000.00,846000.00,209798.213000,122.037627,38,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2012,1,2012-02-29 00:00:00.000,795860.632972,583000.00,583000.00,212860.632972,136.511257,38,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2012,1,2012-02-29 00:00:00.000,991013.827610,639000.00,665000.00,352013.827610,155.088235,36,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2012,1,2012-02-29 00:00:00.000,600029.482200,550000.00,502000.00,50029.482200,109.096269,39,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2012,1,2012-02-29 00:00:00.000,518999.108300,301000.00,264000.00,217999.108300,172.424952,19,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2012,1,2012-02-29 00:00:00.000,511479.345700,493000.00,473000.00,18479.345700,103.748345,17,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2012,1,2012-02-29 00:00:00.000,112920.928500,140000.00,91000.00,-27079.071500,80.657806,4,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2012,1,2012-02-29 00:00:00.000,1007933.129092,802000.00,780000.00,205933.129092,125.677447,40,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2012,2,2012-05-30 00:00:00.000,73732.468488,93000.00,NULL,-19267.531512,79.282224,3,Comparable period,1,No prior quota
+283,David Campbell,Northwest,2012,2,2012-05-30 00:00:00.000,363856.149024,483000.00,267000.00,-119143.850976,75.332536,17,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2012,2,2012-05-30 00:00:00.000,352587.059772,542000.00,341000.00,-189412.940228,65.052963,17,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2012,2,2012-05-30 00:00:00.000,963345.107923,1898000.00,NULL,-934654.892077,50.755801,27,Comparable period,1,No prior quota
+277,Jillian Carson,Central,2012,2,2012-05-30 00:00:00.000,1069513.873015,1600000.00,952000.00,-530486.126985,66.844617,37,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2012,2,2012-05-30 00:00:00.000,307378.878640,496000.00,583000.00,-188621.121360,61.971548,16,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2012,2,2012-05-30 00:00:00.000,878631.187688,1355000.00,639000.00,-476368.812312,64.843630,32,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2012,2,2012-05-30 00:00:00.000,987502.761137,1429000.00,550000.00,-441497.238863,69.104461,37,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2012,2,2012-05-30 00:00:00.000,390023.582979,210000.00,301000.00,180023.582979,185.725515,13,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2012,2,2012-05-30 00:00:00.000,360245.819110,593000.00,NULL,-232754.180890,60.749716,11,Comparable period,1,No prior quota
+281,Shu Ito,Southwest,2012,2,2012-05-30 00:00:00.000,533632.344149,1034000.00,493000.00,-500367.655851,51.608543,18,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2012,2,2012-05-30 00:00:00.000,103863.004500,70000.00,140000.00,33863.004500,148.375720,8,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2012,2,2012-05-30 00:00:00.000,612371.766596,734000.00,802000.00,-121628.233404,83.429395,43,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2012,3,2012-08-30 00:00:00.000,12648.132600,15000.00,93000.00,-2351.867400,84.320884,2,Comparable period,1,Review: quota fell by >80%
+283,David Campbell,Northwest,2012,3,2012-08-30 00:00:00.000,311207.661936,341000.00,483000.00,-29792.338064,91.263243,16,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2012,3,2012-08-30 00:00:00.000,316818.067388,329000.00,542000.00,-12181.932612,96.297284,22,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2012,3,2012-08-30 00:00:00.000,1150963.284248,1262000.00,1898000.00,-111036.715752,91.201528,39,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2012,3,2012-08-30 00:00:00.000,1156716.638293,1352000.00,1600000.00,-195283.361707,85.555964,41,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2012,3,2012-08-30 00:00:00.000,408414.810431,452000.00,496000.00,-43585.189569,90.357258,16,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2012,3,2012-08-30 00:00:00.000,1087510.951537,1009000.00,1355000.00,78510.951537,107.781065,42,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2012,3,2012-08-30 00:00:00.000,1142965.428493,1324000.00,1429000.00,-181034.571507,86.326693,42,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2012,3,2012-08-30 00:00:00.000,180395.881956,226000.00,210000.00,-45604.118044,79.821186,10,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2012,3,2012-08-30 00:00:00.000,400092.289925,409000.00,593000.00,-8907.710075,97.822075,17,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2012,3,2012-08-30 00:00:00.000,724359.870759,813000.00,1034000.00,-88640.129241,89.097155,19,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2012,3,2012-08-30 00:00:00.000,59444.389400,154000.00,70000.00,-94555.610600,38.600252,7,Comparable period,1,No major change flagged
+284,Tete Mensa-Annan,Northwest,2012,3,2012-08-30 00:00:00.000,221788.378676,321000.00,NULL,-99211.621324,69.092952,8,Comparable period,1,No prior quota
+279,Tsvi Reiter,Southeast,2012,3,2012-08-30 00:00:00.000,568003.951439,647000.00,734000.00,-78996.048561,87.790409,36,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2012,4,2012-11-30 00:00:00.000,29649.050900,33000.00,15000.00,-3350.949100,89.845608,2,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2012,4,2012-11-30 00:00:00.000,215471.200417,151000.00,341000.00,64471.200417,142.696159,16,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2012,4,2012-11-30 00:00:00.000,203646.883698,239000.00,329000.00,-35353.116302,85.207901,21,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2012,4,2012-11-30 00:00:00.000,899969.654749,938000.00,1262000.00,-38030.345251,95.945592,45,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2012,4,2012-11-30 00:00:00.000,929277.849897,839000.00,1352000.00,90277.849897,110.760172,50,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2012,4,2012-11-30 00:00:00.000,324061.548225,288000.00,452000.00,36061.548225,112.521370,16,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2012,4,2012-11-30 00:00:00.000,877752.707087,860000.00,1009000.00,17752.707087,102.064268,41,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2012,4,2012-11-30 00:00:00.000,644959.222706,729000.00,1324000.00,-84040.777294,88.471772,30,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2012,4,2012-11-30 00:00:00.000,118845.810052,190000.00,226000.00,-71154.189948,62.550426,3,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2012,4,2012-11-30 00:00:00.000,235953.798900,217000.00,409000.00,18953.798900,108.734469,14,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2012,4,2012-11-30 00:00:00.000,524738.989860,470000.00,813000.00,54738.989860,111.646593,20,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2012,4,2012-11-30 00:00:00.000,177296.200883,107000.00,154000.00,70296.200883,165.697384,3,Comparable period,1,No major change flagged
+284,Tete Mensa-Annan,Northwest,2012,4,2012-11-30 00:00:00.000,219851.217400,281000.00,321000.00,-61148.782600,78.238867,16,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2012,4,2012-11-30 00:00:00.000,486127.504292,571000.00,647000.00,-84872.495708,85.136165,34,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2013,1,2013-02-28 00:00:00.000,45458.343300,110000.00,33000.00,-64541.656700,41.325766,3,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2013,1,2013-02-28 00:00:00.000,266073.145381,284000.00,151000.00,-17926.854619,93.687727,16,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2013,1,2013-02-28 00:00:00.000,291333.155851,418000.00,239000.00,-126666.844149,69.696927,19,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2013,1,2013-02-28 00:00:00.000,1009427.290356,1279000.00,938000.00,-269572.709644,78.923165,39,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2013,1,2013-02-28 00:00:00.000,970385.395303,1369000.00,839000.00,-398614.604697,70.882790,44,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2013,1,2013-02-28 00:00:00.000,231990.929404,247000.00,288000.00,-15009.070596,93.923453,14,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2013,1,2013-02-28 00:00:00.000,867853.025517,1021000.00,860000.00,-153146.974483,85.000296,42,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2013,1,2013-02-28 00:00:00.000,951855.749827,1194000.00,729000.00,-242144.250173,79.719912,42,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2013,1,2013-02-28 00:00:00.000,83579.749300,224000.00,190000.00,-140420.250700,37.312388,3,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2013,1,2013-02-28 00:00:00.000,304924.624380,404000.00,217000.00,-99075.375620,75.476392,16,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2013,1,2013-02-28 00:00:00.000,468606.862936,555000.00,470000.00,-86393.137064,84.433668,19,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2013,1,2013-02-28 00:00:00.000,48509.512350,58000.00,107000.00,-9490.487650,83.637090,3,Comparable period,1,No major change flagged
+284,Tete Mensa-Annan,Northwest,2013,1,2013-02-28 00:00:00.000,258864.294604,304000.00,281000.00,-45135.705396,85.152728,16,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2013,1,2013-02-28 00:00:00.000,511124.116810,572000.00,571000.00,-60875.883190,89.357363,38,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2013,2,2013-05-30 00:00:00.000,161203.652869,184000.00,110000.00,-22796.347131,87.610680,8,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2013,2,2013-05-30 00:00:00.000,358328.986260,631000.00,284000.00,-272671.013740,56.787478,14,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2013,2,2013-05-30 00:00:00.000,367732.463634,507000.00,418000.00,-139267.536366,72.531057,21,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2013,2,2013-05-30 00:00:00.000,1127946.773742,1506000.00,1279000.00,-378053.226258,74.896864,40,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2013,2,2013-05-30 00:00:00.000,884285.306264,1171000.00,1369000.00,-286714.693736,75.515397,46,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2013,2,2013-05-30 00:00:00.000,424325.988431,1051000.00,247000.00,-626674.011569,40.373547,21,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2013,2,2013-05-30 00:00:00.000,1230961.555060,1525000.00,1021000.00,-294038.444940,80.718790,36,Comparable period,1,No major change flagged
+286,Lynn Tsoflias,Australia,2013,2,2013-05-30 00:00:00.000,184105.696014,478000.00,NULL,-293894.303986,38.515835,17,Comparable period,1,No prior quota
+275,Michael Blythe,Northeast,2013,2,2013-05-30 00:00:00.000,1025678.799838,1575000.00,1194000.00,-549321.200162,65.122463,43,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2013,2,2013-05-30 00:00:00.000,204957.765347,319000.00,224000.00,-114042.234653,64.250083,4,Comparable period,1,No major change flagged
+288,Rachel Valdez,Germany,2013,2,2013-05-30 00:00:00.000,371973.196676,728000.00,NULL,-356026.803324,51.095219,21,Comparable period,1,No prior quota
+290,Ranjit Varkey Chudukatil,France,2013,2,2013-05-30 00:00:00.000,829395.815390,1262000.00,404000.00,-432604.184610,65.720746,24,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2013,2,2013-05-30 00:00:00.000,721510.353549,935000.00,555000.00,-213489.646451,77.166882,26,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2013,2,2013-05-30 00:00:00.000,130892.575742,263000.00,58000.00,-132107.424258,49.769040,4,Comparable period,1,No major change flagged
+285,Syed Abbas,Unassigned,2013,2,2013-05-30 00:00:00.000,0.000000,132000.00,NULL,-132000.000000,0.000000,0,No attributed sales,1,No prior quota
+284,Tete Mensa-Annan,Northwest,2013,2,2013-05-30 00:00:00.000,258495.641431,516000.00,304000.00,-257504.358569,50.096054,18,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2013,2,2013-05-30 00:00:00.000,594429.614427,950000.00,572000.00,-355570.385573,62.571538,40,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2013,3,2013-08-30 00:00:00.000,90221.761050,324000.00,184000.00,-233778.238950,27.846222,8,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2013,3,2013-08-30 00:00:00.000,398257.989224,372000.00,631000.00,26257.989224,107.058599,20,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2013,3,2013-08-30 00:00:00.000,393787.523094,453000.00,507000.00,-59212.476906,86.928813,25,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2013,3,2013-08-30 00:00:00.000,1034043.925238,1419000.00,1506000.00,-384956.074762,72.871312,46,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2013,3,2013-08-30 00:00:00.000,884056.135654,971000.00,1171000.00,-86943.864346,91.045945,46,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2013,3,2013-08-30 00:00:00.000,748429.955587,707000.00,1051000.00,41429.955587,105.859965,28,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2013,3,2013-08-30 00:00:00.000,1108320.803055,1276000.00,1525000.00,-167679.196945,86.858997,43,Comparable period,1,No major change flagged
+286,Lynn Tsoflias,Australia,2013,3,2013-08-30 00:00:00.000,331559.458734,389000.00,478000.00,-57440.541266,85.233794,24,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2013,3,2013-08-30 00:00:00.000,1159160.596815,1218000.00,1575000.00,-58839.403185,95.169178,45,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2013,3,2013-08-30 00:00:00.000,350716.231020,450000.00,319000.00,-99283.768980,77.936940,6,Comparable period,1,No major change flagged
+288,Rachel Valdez,Germany,2013,3,2013-08-30 00:00:00.000,508242.771327,566000.00,728000.00,-57757.228673,89.795542,33,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2013,3,2013-08-30 00:00:00.000,864953.574477,1057000.00,1262000.00,-192046.425523,81.830990,28,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2013,3,2013-08-30 00:00:00.000,668519.544034,684000.00,935000.00,-15480.455966,97.736775,26,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2013,3,2013-08-30 00:00:00.000,180871.276299,116000.00,263000.00,64871.276299,155.923514,5,Comparable period,1,No major change flagged
+285,Syed Abbas,Unassigned,2013,3,2013-08-30 00:00:00.000,114785.815075,40000.00,132000.00,74785.815075,286.964537,7,Comparable period,1,No major change flagged
+284,Tete Mensa-Annan,Northwest,2013,3,2013-08-30 00:00:00.000,388712.872353,380000.00,516000.00,8712.872353,102.292861,23,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2013,3,2013-08-30 00:00:00.000,595517.467616,675000.00,950000.00,-79482.532384,88.224810,41,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2013,4,2013-11-30 00:00:00.000,263208.027038,116000.00,324000.00,147208.027038,226.903471,10,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2013,4,2013-11-30 00:00:00.000,328762.241158,234000.00,372000.00,94762.241158,140.496684,22,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2013,4,2013-11-30 00:00:00.000,336983.667461,280000.00,453000.00,56983.667461,120.351309,24,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2013,4,2013-11-30 00:00:00.000,934646.025220,883000.00,1419000.00,51646.025220,105.848926,45,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2013,4,2013-11-30 00:00:00.000,658049.430069,714000.00,971000.00,-55950.569931,92.163785,49,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2013,4,2013-11-30 00:00:00.000,466137.308544,569000.00,707000.00,-102862.691456,81.922198,23,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2013,4,2013-11-30 00:00:00.000,904159.521718,894000.00,1276000.00,10159.521718,101.136411,41,Comparable period,1,No major change flagged
+286,Lynn Tsoflias,Australia,2013,4,2013-11-30 00:00:00.000,320389.968566,399000.00,389000.00,-78610.031434,80.298237,25,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2013,4,2013-11-30 00:00:00.000,848679.752973,849000.00,1218000.00,-320.247027,99.962279,45,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2013,4,2013-11-30 00:00:00.000,324166.834785,343000.00,450000.00,-18833.165215,94.509281,6,Comparable period,1,No major change flagged
+288,Rachel Valdez,Germany,2013,4,2013-11-30 00:00:00.000,365242.811557,366000.00,566000.00,-757.188443,99.793117,32,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2013,4,2013-11-30 00:00:00.000,646804.394594,707000.00,1057000.00,-60195.605406,91.485770,26,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2013,4,2013-11-30 00:00:00.000,528619.300953,614000.00,684000.00,-85380.699047,86.094348,27,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2013,4,2013-11-30 00:00:00.000,70815.359268,84000.00,116000.00,-13184.640732,84.303999,2,Comparable period,1,No major change flagged
+285,Syed Abbas,Unassigned,2013,4,2013-11-30 00:00:00.000,36471.300000,7000.00,40000.00,29471.300000,521.018571,5,Comparable period,1,Review: quota fell by >80%
+284,Tete Mensa-Annan,Northwest,2013,4,2013-11-30 00:00:00.000,363836.115125,454000.00,380000.00,-90163.884875,80.140113,25,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2013,4,2013-11-30 00:00:00.000,487011.581961,538000.00,675000.00,-50988.418039,90.522598,40,Comparable period,1,No major change flagged
+287,Amy Alberts,Unassigned,2014,1,2014-03-01 00:00:00.000,56637.747800,1000.00,116000.00,55637.747800,5663.774780,3,Comparable period,1,Review: quota fell by >80%
+283,David Campbell,Northwest,2014,1,2014-03-01 00:00:00.000,348514.350515,403000.00,234000.00,-54485.649485,86.479987,21,Comparable period,1,No major change flagged
+278,Garrett Vargas,Canada,2014,1,2014-03-01 00:00:00.000,290535.946934,390000.00,280000.00,-99464.053066,74.496396,24,Comparable period,1,No major change flagged
+289,Jae Pak,United Kingdom,2014,1,2014-03-01 00:00:00.000,943212.531359,1329000.00,883000.00,-385787.468641,70.971597,44,Comparable period,1,No major change flagged
+277,Jillian Carson,Central,2014,1,2014-03-01 00:00:00.000,702107.185180,947000.00,714000.00,-244892.814820,74.140146,49,Comparable period,1,No major change flagged
+282,José Saraiva,Canada,2014,1,2014-03-01 00:00:00.000,618831.719023,830000.00,569000.00,-211168.280977,74.558038,29,Comparable period,1,No major change flagged
+276,Linda Mitchell,Southwest,2014,1,2014-03-01 00:00:00.000,988377.477067,1124000.00,894000.00,-135622.522933,87.933939,41,Comparable period,1,No major change flagged
+286,Lynn Tsoflias,Australia,2014,1,2014-03-01 00:00:00.000,358410.818976,421000.00,399000.00,-62589.181024,85.133211,28,Comparable period,1,No major change flagged
+275,Michael Blythe,Northeast,2014,1,2014-03-01 00:00:00.000,687240.396213,869000.00,849000.00,-181759.603787,79.084050,43,Comparable period,1,No major change flagged
+280,Pamela Ansman-Wolfe,Northwest,2014,1,2014-03-01 00:00:00.000,353818.166732,390000.00,343000.00,-36181.833268,90.722606,6,Comparable period,1,No major change flagged
+288,Rachel Valdez,Germany,2014,1,2014-03-01 00:00:00.000,444621.685181,627000.00,366000.00,-182378.314819,70.912549,32,Comparable period,1,No major change flagged
+290,Ranjit Varkey Chudukatil,France,2014,1,2014-03-01 00:00:00.000,748282.314678,908000.00,707000.00,-159717.685322,82.409946,30,Comparable period,1,No major change flagged
+281,Shu Ito,Southwest,2014,1,2014-03-01 00:00:00.000,557816.476823,724000.00,614000.00,-166183.523177,77.046474,26,Comparable period,1,No major change flagged
+274,Stephen Jiang,Unassigned,2014,1,2014-03-01 00:00:00.000,140931.440508,187000.00,84000.00,-46068.559492,75.364406,6,Comparable period,1,No major change flagged
+285,Syed Abbas,Unassigned,2014,1,2014-03-01 00:00:00.000,17070.222000,26000.00,7000.00,-8929.778000,65.654700,2,Comparable period,1,No major change flagged
+284,Tete Mensa-Annan,Northwest,2014,1,2014-03-01 00:00:00.000,457614.175250,497000.00,454000.00,-39385.824750,92.075286,24,Comparable period,1,No major change flagged
+279,Tsvi Reiter,Southeast,2014,1,2014-03-01 00:00:00.000,554312.564288,686000.00,538000.00,-131687.435712,80.803580,41,Comparable period,1,No major change flagged
+283,David Campbell,Northwest,2014,2,NULL,141951.968400,NULL,NULL,NULL,NULL,5,No quota record,0,NULL
+278,Garrett Vargas,Canada,2014,2,NULL,145413.008232,NULL,NULL,NULL,NULL,11,No quota record,0,NULL
+289,Jae Pak,United Kingdom,2014,2,NULL,439784.052551,NULL,NULL,NULL,NULL,23,No quota record,0,NULL
+277,Jillian Carson,Central,2014,2,NULL,337986.221721,NULL,NULL,NULL,NULL,14,No quota record,0,NULL
+282,José Saraiva,Canada,2014,2,NULL,425979.108664,NULL,NULL,NULL,NULL,14,No quota record,0,NULL
+276,Linda Mitchell,Southwest,2014,2,NULL,282711.044394,NULL,NULL,NULL,NULL,18,No quota record,0,NULL
+286,Lynn Tsoflias,Australia,2014,2,NULL,227344.981552,NULL,NULL,NULL,NULL,15,No quota record,0,NULL
+275,Michael Blythe,Northeast,2014,2,NULL,370006.982359,NULL,NULL,NULL,NULL,19,No quota record,0,NULL
+280,Pamela Ansman-Wolfe,Northwest,2014,2,NULL,151113.877308,NULL,NULL,NULL,NULL,3,No quota record,0,NULL
+288,Rachel Valdez,Germany,2014,2,NULL,136986.247000,NULL,NULL,NULL,NULL,12,No quota record,0,NULL
+290,Ranjit Varkey Chudukatil,France,2014,2,NULL,119236.299297,NULL,NULL,NULL,NULL,9,No quota record,0,NULL
+281,Shu Ito,Southwest,2014,2,NULL,220125.175200,NULL,NULL,NULL,NULL,11,No quota record,0,NULL
+274,Stephen Jiang,Unassigned,2014,2,NULL,37652.922000,NULL,NULL,NULL,NULL,2,No quota record,0,NULL
+285,Syed Abbas,Unassigned,2014,2,NULL,4197.114000,NULL,NULL,NULL,NULL,2,No quota record,0,NULL
+284,Tete Mensa-Annan,Northwest,2014,2,NULL,143382.995108,NULL,NULL,NULL,NULL,10,No quota record,0,NULL
+279,Tsvi Reiter,Southeast,2014,2,NULL,232891.864552,NULL,NULL,NULL,NULL,13,No quota record,0,NULL
